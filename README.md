@@ -20,7 +20,7 @@ Ready?
 
 One of the most common businesses on the Internet today are online shops (ecommerce). Websites like Amazon earn millions of dollars each year by selling all kinds of products. All these websites have something in common: they have a shopping cart.
 
-Let's create our Reboot Academy Shopping Center, where users will be able to add and remove products in their frontend shopping cart. Additionally, it will calculate the total price of each product based on how many of those the user has added and the total price of the everything in the cart.
+Let's create our Reboot Academy Shopping Center, where users will be able to add and remove products in their frontend shopping cart. Additionally, it will calculate the total price of each product based on how many of those the user has added and the total price of everything in the cart.
 
 In the started code you will find some CSS to start with that includes classes for the different types of buttons. Add the classes to the button tags you write in your HTML and they will be perfectly styled. 😉
 
