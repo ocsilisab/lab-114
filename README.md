@@ -28,11 +28,7 @@ In the started code you will find some CSS to start with that includes classes f
 
 You have to solve the different problems in the `starter-code/index.js` file. This Javascript file is included in the `starter-code/index.html`. 
 
-You can easily open the HTML in Chrome, by typing in your terminal:
- 
- ```
- $ open starter-code/index.html
- ```
+You can easily open the HTML in Chrome, by clicking the Live Server button located in the bottom-right corner of VSCode.
 
 After you open it, you can open the `Chrome Developer Tools` and see the `console.log`  of your exercises.
 
